@@ -1,0 +1,19 @@
+{
+    "name": "jorgeliu/yii2-think-captcha",
+    "description": "Yii2 think-captcha",
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jorge",
+            "email": "646607417@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+	"autoload": {
+        "psr-4": {
+            "think-captcha\\": ""
+        }
+    }
+}
